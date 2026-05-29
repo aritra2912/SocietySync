@@ -1,0 +1,9 @@
+{
+  "name": "SocietySync",
+  "description": "A comprehensive platform for Tier 2 gated communities, featuring voice-first guard interfaces, resource management, and hyperlocal marketplaces.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
